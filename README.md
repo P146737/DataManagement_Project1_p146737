@@ -31,4 +31,21 @@ The chosen dataset is accessible at Github at https://github.com/stedy/Machine-L
 - Converted categorical data to numerical format
 - Removed or encoded non-numeric entries for categorical analysis
 
-- 
+### 2. Data Visualization
+- Distribution plots of BMI, Age, Charges
+- Correlation Heatmap
+- Boxplot of Charges by Smoker Status and Region
+- Pair plots for key features
+
+### 3. Insights and Explanations
+- Smoking significantly increases insurance charges
+- Higher BMI correlates with higher medical costs
+- Age and Charges show positive correlation
+
+### 4. Recommendations
+- Encourage wellness programs targeting smokers and high-BMI individuals
+- Consider age-based risk adjustment in premium calculation
+- Region specific insurance pricing on healthcare usage
+
+### 5. Conclusion
+- This analysis provides key insights into factors affecting insurance charges. These insights can help life insurance companies to optimize pricing strategies and risk models.
